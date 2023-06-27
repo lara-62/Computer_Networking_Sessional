@@ -1,0 +1,27 @@
+List of clients who were connected to the server // SL
+   ->Online
+   ->Offline
+
+//Lookup own files//LMF filename
+   ->public
+   ->private
+
+//Lookup others files//LOF
+    ->public
+
+//upload files//
+UF filename filesize
+Got acknowledgement from server  file
+
+
+//DF fileID
+//Download own files
+    ->public
+    ->private
+
+//Download others files
+   ->public
+
+//View unread messages
+
+
